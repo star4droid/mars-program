@@ -47,5 +47,5 @@ Compatibility: Works best in Chrome (and on Mars)
 **👽 Want to contribute?**  
 *We accept PRs (Planetary Relocation Suggestions) and Issues (like "Where's the bathroom on Mars?")*  
 
-**[Visit Live Demo](https://your-username.github.io/mars-program/)**  
+**[Visit Live Demo](https://star4droid.github.io/mars-program/)**  
 *Warning: May cause sudden appreciation for Earth's atmosphere* 🌍💨
